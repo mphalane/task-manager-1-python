@@ -41,11 +41,11 @@ for x in user_list:
 ## How To Use ?
 1) Double click on the task_manager.py and follow the prompts displayed in the terminal 
 2) The data for each task is stored on a separate line in the text file. Each line includes the following data about a task in this order:
-    *The username of the person to whom the task is assigned.
-    *The title of the task.
-    *A description of the task.
-    *The date that the task was assigned to the user.
-    *The due date for the task.
-    *Either a ‘Yes’ or ‘No’ value that specifies if the task has been completed yet.
+    -The username of the person to whom the task is assigned.
+    -The title of the task.
+    -A description of the task.
+    -The date that the task was assigned to the user.
+    -The due date for the task.
+    -Either a ‘Yes’ or ‘No’ value that specifies if the task has been completed yet.
     
 3) The text file user.txt stores the username and password for each user that has permission to use your program will be the current date. Also the assumption that whenever you add a new task, the value that indicates whether the task has been completed or not is ‘No’.
